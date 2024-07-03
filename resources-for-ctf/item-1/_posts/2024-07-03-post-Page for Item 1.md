@@ -7,3 +7,4 @@ description: ""
 image: /images/Jaga_Image.png
 variant: tiptap
 ---
+<p>This is all all contents for Item 1!</p>
