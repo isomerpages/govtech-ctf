@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Capture The Flag 2024
+description: CTF-govtech
 image: /images/isomer-logo.svg
 permalink: /
 notification: Capture The Flag
