@@ -1,9 +1,9 @@
-title: Title
-url: ""
+title: Capture The Flag 2024
+url: https://ctf.tech.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  secondary-color: "#bd10e0"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: CTF-govtech
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +53,7 @@ staging: https://staging-lite.dc8rys8tgv1n.amplifyapp.com
 prod: https://master.d2akr21us21st8.amplifyapp.com
 facebook-pixel: ""
 resources_name: resources-for-ctf
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
