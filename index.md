@@ -31,7 +31,7 @@ sections:
       id: infobar
       description: description
       button: Button Text
-      url: subfolder-page
+      url: /example-folder/example-subfolder/subfolder-page
   - infocols:
       title: About Jaga
       id: infocols
