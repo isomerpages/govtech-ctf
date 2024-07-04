@@ -25,6 +25,13 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /ctf-page1/
+  - infobar:
+      title: Second Bar
+      subtitle: Add informational text
+      id: infobar
+      description: description
+      button: Button Text
+      url: subfolder-page
   - infocols:
       title: About Jaga
       id: infocols
