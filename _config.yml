@@ -3,7 +3,7 @@ url: https://ctf.tech.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#bd10e0"
+  secondary-color: "#323232"
   media-colors:
     - title: media-color-one
       color: "#49759a"
