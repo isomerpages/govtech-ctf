@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Welcome!
       subtitle: Are you ready for the challenge?
-      background: /images/Jaga_Image.png
+      background: /images/JTS_banner_1.png
       button: Contact us
       url: /contact-us/
       key_highlights:
