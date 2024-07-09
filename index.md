@@ -4,21 +4,13 @@ title: Capture The Flag 2024
 description: CTF-govtech
 image: /images/isomer-logo.svg
 permalink: /
-notification: Capture The Flag
+notification: STACK the Codes
 sections:
   - hero:
-      title: Welcome!
-      subtitle: Are you ready for the challenge?
       background: /images/JTS_banner_1.png
-      button: Contact us
-      url: /contact-us/
-      key_highlights:
-        - title: Stack The Flags
-          description: STF
-          url: https://jts.tech.gov.sg/2022/stack-the-flags/results
-        - title: Stack The Codes
-          description: STC
-          url: https://jts.tech.gov.sg/2022/stack-the-flags/results
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
