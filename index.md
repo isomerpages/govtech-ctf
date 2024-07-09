@@ -12,8 +12,8 @@ sections:
         title: Hero Dropdown Title
         options: []
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: STACK the Codes
+      subtitle: 7 OCT - 15 NOV 2022
       description: About a sentence worth of description here
       button: Button text
       url: /ctf-page1/
