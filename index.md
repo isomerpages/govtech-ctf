@@ -4,13 +4,17 @@ title: Capture The Flag 2024
 description: CTF-govtech
 image: /images/isomer-logo.svg
 permalink: /
-notification: STACK the Codes
+notification: CTF
 sections:
   - hero:
       background: /images/JTS_banner_1.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      key_highlights:
+        - title: CTF 1
+          description: Key Highlight description
+          url: ""
+        - title: CTF 2
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: STACK the Codes
       subtitle: 7 OCT - 15 NOV 2022
