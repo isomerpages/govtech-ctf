@@ -2,6 +2,7 @@ collections:
   2022-stc:
     output: true
     order:
+      - Prizes.md
       - General Terms and Conditions.md
       - Rules.md
       - Privacy Statement.md
