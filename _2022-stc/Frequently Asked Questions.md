@@ -6,6 +6,10 @@ description: ""
 ---
 <h2>Frequently Asked Questions</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STC/FAQ.jpg">
+</div>
+<p></p>
 <p><strong>Q. What is the maximum number of participants for one team?</strong>
 <br>A. All participating teams can have a maximum of 3 team members, with
 at least 1 Singapore Citizen or Permanent Resident in the team.</p>
