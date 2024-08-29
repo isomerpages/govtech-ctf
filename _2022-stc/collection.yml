@@ -2,4 +2,5 @@ collections:
   2022-stc:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Contact.md
