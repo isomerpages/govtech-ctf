@@ -4,6 +4,10 @@ permalink: /2022/stack-the-codes/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STC/STC_banner.png">
+</div>
 <p><a href="https://github.com/isomerpages/govtech-jagathestack/blob/staging/files/ProblemStatementSubmission.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to download problem statements and submission criteria</u></a>
 </p>
 <p>Join STACK the Codes Hackathon and play the role of a specialist developing
