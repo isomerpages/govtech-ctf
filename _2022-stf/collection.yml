@@ -2,6 +2,7 @@ collections:
   2022-stf:
     output: true
     order:
+      - Index.md
       - Schedule.md
       - Participation.md
       - Prizes.md
