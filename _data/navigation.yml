@@ -4,5 +4,5 @@ links:
     url: /contact-us/
   - title: Past events
     url: /2022/
-  - title: contact us
-    collection: example-folder
+  - title: Contact us
+    url: /permalink
