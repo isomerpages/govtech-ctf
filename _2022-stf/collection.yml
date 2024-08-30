@@ -2,6 +2,7 @@ collections:
   2022-stf:
     output: true
     order:
+      - Results.md
       - General Terms and Conditions.md
       - Rules.md
       - Privacy Statement.md
