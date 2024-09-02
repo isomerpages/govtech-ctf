@@ -2,4 +2,5 @@ collections:
   past-events:
     output: true
     order:
+      - 2022 CTF Results.md
       - 2022 CTF Overview.md
