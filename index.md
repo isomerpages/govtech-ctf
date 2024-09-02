@@ -16,11 +16,11 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: STACK the Codes
+      title: STACK the Flags
       subtitle: 7 OCT - 15 NOV 2022
       description: About a sentence worth of description here
       button: Button text
-      url: /ctf-page1/
+      url: /2022/overview/
   - infobar:
       title: Second Bar
       subtitle: Add informational text
