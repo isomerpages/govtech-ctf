@@ -2,6 +2,5 @@ collections:
   2022-pe:
     output: true
     order:
-      - 2022 CTF Overview.md
       - 2022 CTF Results.md
       - Contact us.md
