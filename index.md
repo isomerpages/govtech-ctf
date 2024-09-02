@@ -20,7 +20,7 @@ sections:
       subtitle: 7 OCT - 15 NOV 2022
       description: About a sentence worth of description here
       button: Button text
-      url: /2022/overview/
+      url: https://ctf.tech.gov.sg/2022/overview/
   - infobar:
       title: Second Bar
       subtitle: Add informational text
