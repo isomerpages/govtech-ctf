@@ -2,4 +2,5 @@ collections:
   2024-ctf:
     output: true
     order:
+      - 2022 CTF.md
       - 2024 CTF.md
