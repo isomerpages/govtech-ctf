@@ -13,7 +13,7 @@ sections:
           description: Key Highlight description
           url: ""
         - title: CTF Village
-          description: Key Highlight description
+          description: sign-up here!
           url: ""
   - infobar:
       title: STACK the Flags
