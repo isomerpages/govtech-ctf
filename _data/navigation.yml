@@ -2,8 +2,6 @@ logo: /images/favicon-isomer.ico
 links:
   - title: AI CTF 2024
     url: /2024/overview/
-  - title: "2020"
-    url: /2020/overview/
   - title: Past Events
     url: /permalink
     sublinks:
