@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/JTS_banner_1.png
       key_highlights:
-        - title: CTF 1
+        - title: CTF AI 2024
           description: Key Highlight description
           url: ""
-        - title: CTF 2
+        - title: CTF Village
           description: Key Highlight description
           url: ""
   - infobar:
