@@ -4,19 +4,6 @@ permalink: /2022/overview/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>CTF 2022</p>
-</th>
-<th rowspan="4" colspan="2">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -63,23 +50,4 @@ challenges across 11 different cybersecurity domains.</p>
 <p>Web</p>
 </li>
 </ul>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="2">
-<p>CTF 2020</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Results</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Contact us</p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
