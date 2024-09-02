@@ -2,5 +2,6 @@ collections:
   past-events:
     output: true
     order:
+      - Contact us.md
       - 2022 CTF Results.md
       - 2022 CTF Overview.md
