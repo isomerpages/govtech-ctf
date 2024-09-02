@@ -30,4 +30,5 @@ sections:
       description: Jaga the STACK is GovTech’s key program, uniting local security
         researchers to create impactful cybersecurity solutions and experiences.
       image: /images/Jaga_Image.png
+      alt: JTS-image
 ---
