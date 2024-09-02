@@ -2,4 +2,4 @@ collections:
   2024-ctf:
     output: true
     order:
-      - sidebar.md
+      - 2024 CTF.md
