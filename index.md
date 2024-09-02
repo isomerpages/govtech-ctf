@@ -7,7 +7,7 @@ permalink: /
 notification: CTF
 sections:
   - hero:
-      background: /images/JTS_banner_1.png
+      background: /images/CTFLOGO.png
       key_highlights:
         - title: CTF AI 2024
           description: Key Highlight description
