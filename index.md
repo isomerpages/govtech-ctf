@@ -15,6 +15,12 @@ sections:
         - title: CTF Village
           description: sign-up here!
           url: ""
+  - infopic:
+      title: About Jaga the STACK
+      id: infopic
+      description: Jaga the STACK is GovTech’s key program, uniting local security
+        researchers to create impactful cybersecurity solutions and experiences.
+      image: /images/Jaga_Image.png
   - infobar:
       title: STACK the Flags
       subtitle: 7 OCT - 15 NOV 2022
