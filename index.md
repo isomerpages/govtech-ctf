@@ -16,31 +16,18 @@ sections:
           description: sign-up here!
           url: ""
   - infopic:
+      title: STACK the FLAGS
+      id: infopic
+      description: Join STACK the Flags 2nd edition! Compete in a 48-hour CTF with
+        challenges across 11 domains. Capture flags to win exciting prizes!
+      button: LEARN MORE
+      url: /2022/overview/
+      image: /images/STF/STF.png
+      alt: Image alt text
+  - infopic:
       title: About Jaga the STACK
       id: infopic
       description: Jaga the STACK is GovTech’s key program, uniting local security
         researchers to create impactful cybersecurity solutions and experiences.
       image: /images/Jaga_Image.png
-  - infobar:
-      title: STACK the Flags
-      subtitle: 7 OCT - 15 NOV 2022
-      description: About a sentence worth of description here
-      button: Button text
-      url: /2022/overview/
-  - infobar:
-      title: Second Bar
-      subtitle: Add informational text
-      id: infobar
-      description: description
-      button: Button Text
-      url: /example-folder/example-subfolder/subfolder-page
-  - infocols:
-      title: About Jaga
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
