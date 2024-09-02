@@ -4,16 +4,16 @@ title: Capture The Flag 2024
 description: CTF-govtech
 image: /images/isomer-logo.svg
 permalink: /
-notification: CTF
+notification: ""
 sections:
   - hero:
       background: /images/CTFLOGO.png
       key_highlights:
         - title: CTF AI 2024
-          description: Key Highlight description
+          description: Open for Submission
           url: ""
         - title: CTF Village
-          description: sign-up here!
+          description: sign-up here
           url: ""
   - infopic:
       title: STACK the FLAGS
