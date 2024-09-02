@@ -1,4 +1,5 @@
 collections:
   2024-ctf:
     output: true
-    order: []
+    order:
+      - sidebar.md
