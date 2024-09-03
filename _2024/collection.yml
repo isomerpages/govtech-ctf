@@ -2,5 +2,6 @@ collections:
   "2024":
     output: true
     order:
+      - Schedule.md
       - Overview.md
       - Contact us.md
