@@ -25,7 +25,7 @@ description: ""
 <p>Registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Now till 6 November 2022</p>
+<p>Now till (DATE)</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ description: ""
 <p>Round 1: Competition period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 October 2022 to 6 November 2022
+<p>(DATE TO DATE)
 <br><a href="https://form.gov.sg/6347be2822675200119b9fb9" rel="noopener noreferrer nofollow" target="_blank"><u>Solution submission form here</u></a>
 </p>
 </td>
@@ -43,7 +43,7 @@ description: ""
 <p>Shortlisting of submissions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 November 2022 to 10 November 2022</p>
+<p>(DATE TO DATE)</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ description: ""
 <p>Notifying top 10 teams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 November 2022</p>
+<p>(DATE)</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ description: ""
 <p>Round 2: Presentation at STACK Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 November 2022</p>
+<p>(DATE)</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ description: ""
 <p>Physical Prize Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 December 2022</p>
+<p>(DATE)</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ description: ""
 <p>Co-Development Cycle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December 2022 to May 2023</p>
+<p>(DATE TO DATE)</p>
 </td>
 </tr>
 </tbody>
