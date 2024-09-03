@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <p>STACK the Flags is a 48-hour, online jeopardy style Capture-the-Flag competition
 organised by GovTech’s Cyber Security Group.</p>
-<h3>Why should I join STACK the Flags?</h3>
+<h3>Why should I join Capture the Flags?</h3>
 <p>Participants will get to compete and test their cybersecurity skills in
 challenges across 11 different cybersecurity domains.</p>
 <p>The categories are:</p>
