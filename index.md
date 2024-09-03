@@ -31,4 +31,8 @@ sections:
         researchers to create impactful cybersecurity solutions and experiences.
       image: /images/Jaga_Image.png
       alt: JTS-image
+  - infopic:
+      subtitle: ORGANIZSED BY
+      id: infopic
+      alt: csg
 ---
