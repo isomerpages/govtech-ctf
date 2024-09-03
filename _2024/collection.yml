@@ -2,6 +2,7 @@ collections:
   "2024":
     output: true
     order:
+      - General Terms and Conditions.md
       - Prizes.md
       - Participation.md
       - Schedule.md
