@@ -1,7 +1,7 @@
 logo: /images/Jaga_Image.png
 links:
   - title: AI CTF 2024
-    url: /2024/overview/
+    url: /overview/
   - title: Past Events
     url: /permalink
     sublinks:
