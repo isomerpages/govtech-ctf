@@ -2,6 +2,7 @@ collections:
   "2024":
     output: true
     order:
+      - Participation Eligibility.md
       - Schedule.md
       - Overview.md
       - Contact us.md
