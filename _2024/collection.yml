@@ -2,6 +2,7 @@ collections:
   "2024":
     output: true
     order:
+      - Challenge Creation.md
       - General Terms and Conditions.md
       - Prizes.md
       - Participation.md
