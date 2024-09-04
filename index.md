@@ -50,17 +50,17 @@ sections:
       image: /images/STF/STF.png
       alt: Image alt text
   - infopic:
-      title: About Jaga the STACK
-      id: infopic
-      description: Jaga the STACK is GovTech’s key program, uniting local security
-        researchers to create impactful cybersecurity solutions and experiences.
-      image: /images/Jaga_Image.png
-      alt: JTS-image
-  - infopic:
       title: Jaga the STACK Finale
       id: infopic
       description: Jaga the STACK wraps up with awards for top teams and white hats
         contributing to GovTech’s cybersecurity. Stay tuned for more details!
       image: /images/whitehat_white.png
       alt: Image alt text
+  - infopic:
+      title: About Jaga the STACK
+      id: infopic
+      description: Jaga the STACK is GovTech’s key program, uniting local security
+        researchers to create impactful cybersecurity solutions and experiences.
+      image: /images/Jaga_Image.png
+      alt: JTS-image
 ---
