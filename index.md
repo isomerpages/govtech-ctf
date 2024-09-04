@@ -10,10 +10,10 @@ sections:
       background: /images/CTFLOGO.png
       key_highlights:
         - title: AI CTF 2024
-          description: ""
+          description: coming soon
           url: ""
         - title: CTF Village
-          description: ""
+          description: coming soon
           url: ""
   - infopic:
       title: AI CTF 2024
