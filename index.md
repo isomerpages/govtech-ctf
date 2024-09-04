@@ -15,47 +15,23 @@ sections:
         - title: CTF Village
           description: ""
           url: ""
-        - title: Past Events
-          description: ""
-          url: ""
-        - title: Contact Us
-          description: ""
-          url: ""
-  - announcements:
-      id: announcements
-      announcement_items:
-        - title: Singapore AI CTF 2024 (opening end September)
-          date: 19 October 2024
-          announcement: "Compete in SG’s first Government AI CTF Competition! The 12-Hour
-            CTF features challenges in 7 AI domains: Data Analysis; Model
-            Extraction; Model Fingerprinting; Prompt Injection; Adversarial AI
-            Images; Adversarial Audio Generation and Model Inversion."
-          link_text: ""
-          link_url: ""
-        - title: CTF Village Registrations (opening October)
-          date: 05 November 2024
-          announcement: Interested to find out more about AI Safety and Security? Join our
-            CTF Village featuring talks, mini-CTF challenges and cheer on
-            finalists participating in the final round of the National AI CTF!
-            Check out the detailed programme here.
-          link_text: ""
-          link_url: ""
   - infopic:
-      title: STACK the FLAGS
+      title: AI CTF 2024
       id: infopic
-      description: Join STACK the Flags 2nd edition! Compete in a 48-hour CTF with
-        challenges across 11 domains. Capture flags to win exciting prizes!
-      button: LEARN MORE
-      url: /2022/overview/
+      description: Compete in SG’s first Government AI CTF Competition! The 12-Hour
+        CTF features challenges in 7 AI domains
       image: /images/STF/STF.png
       alt: Image alt text
+      subtitle: 19 October 2024
   - infopic:
-      title: Jaga the STACK Finale
+      title: CTF Village
       id: infopic
-      description: Jaga the STACK wraps up with awards for top teams and white hats
-        contributing to GovTech’s cybersecurity. Stay tuned for more details!
+      description: Curious about AI Safety and Security? Join our CTF Village for
+        talks, mini challenges, and cheer on the National AI CTF finalists! Full
+        details here.
       image: /images/whitehat_white.png
       alt: Image alt text
+      subtitle: 05 November 2024
   - infopic:
       title: About Jaga the STACK
       id: infopic
