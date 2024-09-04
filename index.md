@@ -56,4 +56,11 @@ sections:
         researchers to create impactful cybersecurity solutions and experiences.
       image: /images/Jaga_Image.png
       alt: JTS-image
+  - infopic:
+      title: Jaga the STACK Finale
+      id: infopic
+      description: Jaga the STACK wraps up with awards for top teams and white hats
+        contributing to GovTech’s cybersecurity. Stay tuned for more details!
+      image: /images/whitehat_white.png
+      alt: Image alt text
 ---
