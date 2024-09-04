@@ -9,11 +9,17 @@ sections:
   - hero:
       background: /images/CTFLOGO.png
       key_highlights:
-        - title: "AI CTF 2024: Registration"
-          description: (opening end September)
+        - title: AI CTF 2024
+          description: ""
           url: ""
-        - title: "CTF Village: Registration"
-          description: (opening October)
+        - title: CTF Village
+          description: ""
+          url: ""
+        - title: Past Events
+          description: ""
+          url: ""
+        - title: Contact Us
+          description: ""
           url: ""
   - infopic:
       title: STACK the FLAGS
