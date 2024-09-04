@@ -1,5 +1,5 @@
 collections:
-  "2024":
+  sg-ai-ctf:
     output: true
     order:
       - Overview.md
