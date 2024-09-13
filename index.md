@@ -9,11 +9,11 @@ sections:
   - hero:
       background: /images/CTFLOGO.png
       key_highlights:
-        - title: AI CTF 2024
-          description: coming soon
+        - title: AI Security CTF
+          description: Coming Soon
           url: ""
-        - title: CTF Village
-          description: coming soon
+        - title: AI Safety CTF
+          description: Organised by IMDA
           url: ""
   - infopic:
       title: AI CTF 2024
