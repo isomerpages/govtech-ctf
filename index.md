@@ -16,10 +16,10 @@ sections:
           description: Organised by IMDA
           url: ""
   - infopic:
-      title: AI CTF 2024
+      title: AI Security CTF
       id: infopic
       description: Compete in SG’s first Government AI CTF Competition! The 12-Hour
-        CTF features challenges in 7 AI domains
+        CTF features challenges in 7 AI Security domains
       image: /images/STF/STF.png
       alt: Image alt text
       subtitle: 19 October 2024
