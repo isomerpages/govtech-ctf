@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/SGAICTF_Banner2.png
       key_highlights:
-        - title: Security CTF by GovTech
+        - title: AI Security CTF by GovTech
           description: opens end sept
           url: ""
         - title: AI Safety CTF by IMDA
