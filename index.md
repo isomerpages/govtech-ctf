@@ -9,20 +9,20 @@ sections:
   - hero:
       background: /images/SGAICTF_Banner2.png
       key_highlights:
-        - title: AI Security CTF
-          description: Coming Soon
+        - title: Security CTF by GovTech
+          description: opens end sept
           url: ""
-        - title: AI Safety CTF
+        - title: AI Safety CTF by IMDA
           description: Organised by IMDA
           url: ""
   - infopic:
-      title: AI Security CTF
+      title: Singapore AI Security CTF
       id: infopic
-      description: Compete in SG’s first Government AI CTF Competition! The 12-Hour
-        CTF features challenges in 7 AI Security domains
-      image: /images/STF/STF.png
+      description: Compete in SG’s first Government AI Security CTF Competition! The
+        12-Hour CTF features challenges in 7 AI domains
+      image: /images/SGAICTF_Thumbnail.png
       alt: Image alt text
-      subtitle: 19 October 2024
+      subtitle: 26 October 2024
   - infopic:
       title: CTF Village
       id: infopic
