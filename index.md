@@ -10,7 +10,7 @@ sections:
       background: /images/SGAICTF_Banner2.png
       key_highlights:
         - title: AI Security CTF by GovTech
-          description: opens end sept
+          description: Registrations Opening Soon
           url: ""
         - title: AI Safety CTF by IMDA
           description: Organised by IMDA
