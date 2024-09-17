@@ -24,14 +24,14 @@ sections:
       alt: Image alt text
       subtitle: 26 October 2024
   - infopic:
-      title: CTF Village
+      title: Singapore AI CTF Village
       id: infopic
-      description: Curious about AI Safety and Security? Join our CTF Village for
-        talks, mini challenges, and cheer on the National AI CTF finalists! Full
-        details here.
+      description: Curious about AI Safety and Security? Join our CTF Village with
+        talks, mini-CTF challenges, and cheer on finalists in the National AI
+        CTF final round!
       image: /images/whitehat_white.png
       alt: Image alt text
-      subtitle: 05 November 2024
+      subtitle: 5 November 2024
   - infopic:
       title: About Jaga the STACK
       id: infopic
