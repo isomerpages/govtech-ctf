@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CTFLOGO.png
+      background: /images/SGAICTF_Banner2.png
       key_highlights:
         - title: AI Security CTF
           description: Coming Soon
