@@ -13,7 +13,7 @@ sections:
           description: Registrations Opening Soon
           url: ""
         - title: AI Safety CTF by IMDA
-          description: Organised by IMDA
+          description: Details at IMDA's Website
           url: ""
   - infopic:
       title: Singapore AI Security CTF
