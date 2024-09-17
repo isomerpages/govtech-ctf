@@ -29,7 +29,7 @@ sections:
       description: Curious about AI Safety and Security? Join our CTF Village with
         talks, mini-CTF challenges, and cheer on finalists in the National AI
         CTF final round!
-      image: /images/whitehat_white.png
+      image: /images/SGAICTF_Logo.png
       alt: Image alt text
       subtitle: 5 November 2024
   - infopic:
