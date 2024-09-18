@@ -96,5 +96,8 @@ members agree to the provisions as written in the following:</p>
 <p>Singapore AI CTF&nbsp;<a href="https://jts.tech.gov.sg/2022/stack-the-flags/privacy-statement" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>;
 and</p>
 </li>
-</ol>
+<li>
 <p>Singapore AI CTF rules.</p>
+</li>
+</ol>
+<p></p>
