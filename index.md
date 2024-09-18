@@ -33,10 +33,11 @@ sections:
       alt: Image alt text
       subtitle: 5 November 2024
   - infopic:
-      title: About Jaga the STACK
+      title: About SINGAPORE AI-CTF
       id: infopic
-      description: Jaga the STACK is GovTech’s key program, uniting local security
-        researchers to create impactful cybersecurity solutions and experiences.
-      image: /images/Jaga_Image.png
+      description: Singapore AI-CTF brings together top security researchers to create
+        innovative AI security solutions and drive impactful advancements in
+        cybersecurity.
+      image: /images/SGAICTF_Logo.png
       alt: JTS-image
 ---
