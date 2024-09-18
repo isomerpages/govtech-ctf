@@ -1,6 +1,6 @@
 title: Capture The Flag 2024
 url: https://ctf.tech.gov.sg
-favicon: /images/hero-banner.png
+favicon: /images/SGAICTF_Logo.png
 colors:
   primary-color: "#000000"
   secondary-color: "#323232"
@@ -53,7 +53,7 @@ staging: https://staging-lite.dc8rys8tgv1n.amplifyapp.com
 prod: https://master.d2akr21us21st8.amplifyapp.com
 facebook-pixel: ""
 resources_name: resources-for-ctf
-shareicon: /images/isomer-logo.svg
+shareicon: /images/SGAICTF_Logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
