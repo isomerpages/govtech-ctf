@@ -35,9 +35,9 @@ sections:
   - infopic:
       title: About SINGAPORE AI-CTF
       id: infopic
-      description: Singapore AI-CTF brings together top security researchers to create
-        innovative AI security solutions and drive impactful advancements in
-        cybersecurity.
+      description: Singapore's first AI CTF featuring AI/ML challenges. Build your
+        skills in adversarial machine learning and model security through the
+        CTF!
       image: /images/SGAICTF_Logo.png
       alt: JTS-image
 ---
