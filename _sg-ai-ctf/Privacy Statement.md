@@ -79,7 +79,7 @@ benefits.</p>
 </li>
 </ol>
 <p>Contact Information</p>
-<p>Please&nbsp;&lt;insert contact us link&gt;&nbsp;if you:</p>
+<p>Please approach the 'contact us' page&nbsp;if you:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>have any enquires or feedback on our data protection, policies and procedures;
