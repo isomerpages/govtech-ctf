@@ -4,8 +4,8 @@ permalink: /privacy-statement/
 variant: tiptap
 description: ""
 ---
-<h2>STACK the Flags Privacy Statement</h2>
-<p>The STACK the Flags Competition (the “Competition”), organised by Government
+<h2>Singapore AI CTF Privacy Statement</h2>
+<p>The Singapore AI CTF Competition (the “Competition”), organised by Government
 Technology Agency (“GovTech”), only collects data that is needed to ensure
 the smooth delivery of the Competition. GovTech is committed to safeguarding
 your privacy and will use the data for administrative purposes before,
@@ -55,7 +55,7 @@ engaged by GovTech, to facilitate the provision of user accounts on the
 contractors’ platform. This is to provision their user accounts on the
 contractors’ platform. Participating teams should provide an electronic
 mail address that is suitable for the purpose.</p>
-<h3>Withdrawal of Consent</h3>
+<p>Withdrawal of Consent</p>
 <p>Participating team members may withdraw consent for use of their personal
 data at any time upon reasonable notice to the Organising Committee, subject
 to legal or contractual restrictions or public interest requirements. Upon
@@ -78,9 +78,8 @@ if no other winning team can be conferred or identified the prizes and
 benefits.</p>
 </li>
 </ol>
-<h3>Contact Information</h3>
-<p>Please <a href="https://jts.tech.gov.sg/2022/stack-the-flags/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>contact us</u></a> if
-you:</p>
+<p>Contact Information</p>
+<p>Please&nbsp;&lt;insert contact us link&gt;&nbsp;if you:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>have any enquires or feedback on our data protection, policies and procedures;
@@ -91,5 +90,4 @@ or</p>
 to us in the past.</p>
 </li>
 </ol>
-<p><a href="https://jts.tech.gov.sg/2022/stack-the-flags/rules" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<p></p>
