@@ -2,7 +2,7 @@
 layout: homepage
 title: Capture The Flag 2024
 description: CTF-govtech
-image: /images/isomer-logo.svg
+image: /images/SGAICTF_Logo.png
 permalink: /
 notification: ""
 sections:
