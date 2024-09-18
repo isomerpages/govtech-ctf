@@ -4,13 +4,12 @@ permalink: /rules/
 variant: tiptap
 description: ""
 ---
-<h2>Rules</h2>
-<h4>General</h4>
-<p>In these Rules, <strong>“GovTech”</strong> refers to the Government Technology
+<h2>General</h2>
+<p>In these Rules,&nbsp;“GovTech”&nbsp;refers to the Government Technology
 Agency, a statutory board of the Government of Singapore who is the organiser
-of this STACK the Flags competition and event.</p>
-<p><strong>“You”</strong> or <strong>“you”</strong> refers to each participating
-team and its members.</p>
+of the Singapore AI CTF competition and event.</p>
+<p>“You”&nbsp;or&nbsp;“you”&nbsp;refers to each participating team and its
+members.</p>
 <p>Here are some ground rules. Unless otherwise specified, the rules refer
 to your team and not you as a member of your team, it is acceptable to
 share materials within your own team only.</p>
@@ -58,49 +57,44 @@ but is not limited to, the following:</p>
 </ul>
 </li>
 </ol>
-<h4>Participation</h4>
+<p>Participation</p>
 <p>All participating teams are subject to the terms and conditions written
-in the <a href="https://jts.tech.gov.sg/2022/stack-the-flags/participation" rel="noopener noreferrer nofollow" target="_blank"><u>participation section</u></a> of
-this website.</p>
-<h4>Competition Schedule</h4>
+in the &lt;to insert&gt;&nbsp;of this website.</p>
+<p>Competition Schedule</p>
 <p>All participating teams are to abide by the schedule for each period of
 the competition. The relevant dates and times of the competition are indicated
-in the <a href="https://jts.tech.gov.sg/2022/stack-the-flags/schedule" rel="noopener noreferrer nofollow" target="_blank"><u>schedule</u></a>.</p>
-<h4>Prizes</h4>
-<p>We will award the prizes as laid out in the <a href="https://jts.tech.gov.sg/2022/stack-the-flags/prizes" rel="noopener noreferrer nofollow" target="_blank"><u>prizes section</u></a> of
+in the&nbsp;&lt;to insert&gt;</p>
+<p>Prizes</p>
+<p>We will award the prizes as laid out in the&nbsp;<a href="https://jts.tech.gov.sg/2022/stack-the-flags/prizes" rel="noopener noreferrer nofollow" target="_blank">prizes section</a>&nbsp;of
 this website. GovTech will announce the final winner and recipients of
-the prizes and awards during the Prize Ceremony (as indicated in the
-<a href="https://jts.tech.gov.sg/2022/stack-the-flags/schedule" rel="noopener noreferrer nofollow" target="_blank"><u>schedule</u>
-</a>). Prizes will be awarded within 60 days after the conclusion of the competition*.
-If a potential winner declines, is found to have broken the rules of the
-competition, does not respond to prize notification, is found to be ineligible
-for the prize, or is otherwise found to be unable to claim the prize for
-some reason, GovTech may award the prize to the next best team(s).</p>
-<p>Prize categories will be updated in this section soon.</p>
+the prizes and awards during the Prize Ceremony (as indicated in the&nbsp;
+<a href="https://jts.tech.gov.sg/2022/stack-the-flags/schedule" rel="noopener noreferrer nofollow" target="_blank">schedule</a>). Prizes will be awarded within 60 days after the conclusion
+of the competition*. If a potential winner declines, is found to have broken
+the rules of the competition, does not respond to prize notification, is
+found to be ineligible for the prize, or is otherwise found to be unable
+to claim the prize for some reason, GovTech may award the prize to the
+next best team(s).</p>
 <p>Prizes may be subject to terms, restrictions and conditions imposed by
 GovTech.</p>
 <p>*<em>The competition is considered as concluded upon the successful conduct of the Prize Ceremony.</em>
 </p>
-<h4>Cheating</h4>
+<p>Cheating</p>
 <p>The Organising Committee does not condone cheating at any point during
 the CTF competition. We want to maintain fair play among the participating
 teams. GovTech will take all steps deemed necessary to maintain fair play
 among the participating teams. Groups and participants found to be cheating
 will be disqualified from all prizes, awards and barred from participating
 in future events.</p>
-<h4>General Terms and Conditions and Privacy Statement</h4>
+<p>General Terms and Conditions and Privacy Statement</p>
 <p>By participating in this competition, all participating teams and its
 members agree to the provisions as written in the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>STACK the Flags <a href="https://jts.tech.gov.sg/2022/stack-the-flags/general-terms-and-conditions" rel="noopener noreferrer nofollow" target="_blank"><u>General Terms and Conditions</u></a>;</p>
+<p>Singapore AI CTF &nbsp;<a href="https://jts.tech.gov.sg/2022/stack-the-flags/general-terms-and-conditions" rel="noopener noreferrer nofollow" target="_blank">General Terms and Conditions</a>;</p>
 </li>
 <li>
-<p>STACK the Flags <a href="https://jts.tech.gov.sg/2022/stack-the-flags/privacy-statement" rel="noopener noreferrer nofollow" target="_blank"><u>Privacy Statement</u></a>;
+<p>Singapore AI CTF&nbsp;<a href="https://jts.tech.gov.sg/2022/stack-the-flags/privacy-statement" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>;
 and</p>
 </li>
-<li>
-<p>STACK the Flags Rules.</p>
-</li>
 </ol>
-<p></p>
+<p>Singapore AI CTF rules.</p>
