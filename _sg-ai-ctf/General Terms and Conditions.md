@@ -41,7 +41,7 @@ each of the Participants;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Rules”&nbsp;or&nbsp;“Competition Rules”&nbsp;mean
 the rules, regulations and decisions prescribed by GovTech for the Competition,
 including these terms and conditions set out herein and those set out at
-the following, please approach the 'rules tab'</p>
+the following, please approach the 'rules' tab;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Reference to&nbsp;“Clauses”&nbsp;or&nbsp;“Clause”&nbsp;shall refer to
