@@ -59,7 +59,7 @@ up before 14<sup>th</sup> October</p>
 <p>Prize Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5<sup>th</sup> November 6:00pm-8:00pm</p>
+<p>5<sup>th</sup> November 6:00pm to 8:00pm</p>
 </td>
 </tr>
 </tbody>
