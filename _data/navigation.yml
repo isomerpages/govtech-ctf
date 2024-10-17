@@ -1,15 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SGAICTF_Logo.png
 links:
-  - title: Contact Us
+  - title: AI CTF 2024
+    url: /overview/
+  - title: Past Events
+    url: /2022/overview/
+    sublinks:
+      - title: "2022"
+        url: /2022/overview/
+      - title: "2020"
+        url: /stack-the-flags-2020/
+  - title: Contact us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

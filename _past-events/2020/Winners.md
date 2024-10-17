@@ -1,0 +1,990 @@
+---
+title: Winners
+permalink: /winners/
+variant: tiptap
+description: ""
+third_nav_title: "2020"
+---
+<h1>Winners</h1>
+<p>Congratulations to all the Winners for STACK the Flags 2020. Each member
+of the top 10 teams will receive an exclusive STACK the Flags CTF C01N
+and a certificate.</p>
+<h2>Category 1</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Score</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Prize</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>perfect blue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69144</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $15000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chicken RCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64191</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $10000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PwningActionParty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>57202</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $4000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PDKT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55069</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IPhone XS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52553</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>theZoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48333</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ywh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48254</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christmas Tree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47275</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venti-McVentface</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41335</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Hot Mala Peppers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39521</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Category 2</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Score</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Prize</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ByteForc3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58534</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $8000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stranglehold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>51617</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $4000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50985</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $2000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48122</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HKEggToast</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47577</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIG0CT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T0X1C V4P0R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45465</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mushroom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pentus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42477</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dame Dango</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40658</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Category 3</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Score</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Prize</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50910</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $8000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chomusuke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46050</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $4000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ItzyBitzySpider</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37754</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $2000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>t3Am_n4m3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33648</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>what’s CTF?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33334</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team LIFO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23238</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21596</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AcceptableBoat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20149</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BunchOfBytes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20052</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shinrabansho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19277</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Mastery Awards</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Winning Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Taken (hours)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cash Bounty</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Web Warrior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ywh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Ace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Perfect Blue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Forensicator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chicken RCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Intelligence Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>theZoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Human Hacker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:thinking: but brainrot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40.9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $150</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Unfortunately, there were no winners for the “Master of Reverse Engineering
+and Exploitation”, “Cloud Guru” and “IoT Crypto Expert” categories</p>
+<h2>Write-up Awards</h2>
+<p>You may find a list of all write-ups <a href="https://docs.google.com/spreadsheets/d/1EMgqFpcc_InJZy264AIe1QpvUDFs1-24iTrnKbdoOUo/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Challenge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Winning Team</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All about Korovax!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BunchOfBytes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Roads Lead to Rome!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stranglehold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An invitation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beta reporting system</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shinrabansho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Breaking Free</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIG0CT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Can COViD break Alice’s design?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AcceptableBoat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Can COViD steal Bob’s idea?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noName</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Can you trick OrgX into giving away their credentials?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ItzyBitzySpider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corrupted Hive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COViD is able to compromise our IoT encryption system, how come?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shuenonkit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COViD’s Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ItzyBitzySpider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feed the Beast</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mushroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Figure out this missive from COViD to his intern!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken RCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Find the last seen location of where one of the Korovax’s staff is at</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:thinking: but brainrot</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Find the leaking bucket!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dame Dango</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hold the line! Perimeter defences doing it’s work!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chomusuke</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hunt him down!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noName</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I smell updates!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ItzyBitzySpider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IOT RSA Token</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIG0CT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Keep the clouds together…</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chicken RCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logged In</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Only time will tell!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shiba</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ransom Me This</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PwningActionParty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Save Josh!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:thinking: but brainrot</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Share and deploy the containers!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chicken RCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sounds of freedom!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stats</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop COViD’s recruitment!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Striking Back #1 - Password Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chicken RCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Striking Back #2 - What the tech?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PwningActionParty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Task, task, task!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The suspicious frequency monitoring alert!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>t3Am_n4m3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time travel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PwningActionParty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasure Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>theZoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>True or false?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QWERTY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unlock Me</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OV3RWR1T3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Voices in the head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Mitsuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Walking down a colourful memory lane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYCP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welcome to Korovax Mobile!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0x1EA7BEEF</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What is he working on? Some high value project?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:thinking: but brainrot</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What is this weird program?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken RCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What’s with the Search!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team LIFO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Where was he kidnapped?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XSSMyLife</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Who are the possible kidnappers?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>theZoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>X marks the spot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>theZoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>You shall not pass!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cookiez</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

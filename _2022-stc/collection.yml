@@ -1,0 +1,13 @@
+collections:
+  2022-stc:
+    output: true
+    order:
+      - Index.md
+      - Schedule.md
+      - Participation.md
+      - Prizes.md
+      - General Terms and Conditions.md
+      - Rules.md
+      - Privacy Statement.md
+      - Frequently Asked Questions.md
+      - Contact.md
