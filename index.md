@@ -16,8 +16,6 @@ sections:
           description: Details at IMDA's Website
           url: ""
       variant: image
-      button: button
-      url: https://www.tech.gov.sg/
   - infopic:
       title: Singapore AI Security CTF
       id: infopic
